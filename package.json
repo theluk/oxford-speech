@@ -1,5 +1,5 @@
 {
-  "name": "oxford-speech-js",
+  "name": "oxford-speech",
   "version": "1.0.0",
   "description": "Oxford.Speech.JS is a sample for Microsoft Cognitive Services (formerly Project Oxford) Speech To Text APIs using Javascript.",
   "main": "speech.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/theluk/oxford-speech-js.git"
+    "url": "git+ssh://git@github.com/theluk/oxford-speech.git"
   },
   "keywords": [
     "speech",
@@ -20,9 +20,9 @@
   "author": "Lukas Klinzing <theluk@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/theluk/oxford-speech-js/issues"
+    "url": "https://github.com/theluk/oxford-speech/issues"
   },
-  "homepage": "https://github.com/theluk/oxford-speech-js#readme",
+  "homepage": "https://github.com/theluk/oxford-speech#readme",
   "devDependencies": {
     "del": "^2.2.0",
     "gulp": "^3.9.1",
