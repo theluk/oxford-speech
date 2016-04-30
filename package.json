@@ -1,6 +1,6 @@
 {
   "name": "oxford-speech",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Oxford.Speech.JS is a sample for Microsoft Cognitive Services (formerly Project Oxford) Speech To Text APIs using Javascript.",
   "main": "speech.js",
   "scripts": {
