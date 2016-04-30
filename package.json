@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/theluk/oxford-speech-js/issues"
   },
-  "homepage": "https://github.com/theluk/oxford-speech-js#readme"
+  "homepage": "https://github.com/theluk/oxford-speech-js#readme",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "napa": "^2.3.0",
+    "request": "^2.72.0"
+  }
 }
